@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 💬 Ask me about **HTML , CSS < JS**
+- 💬 Ask me about **HTML , CSS , JS**
 
 - 📫 How to reach me **mishrasomesh0403@gmail.com**
 
