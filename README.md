@@ -2,10 +2,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=MishraSomesh001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MishraSomesh001&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
+![](https://github-readme-streak-stats.herokuapp.com/?user=MishraSomesh001&theme=radical&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=MishraSomesh001&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💫 About Me:
 🚀 What I’m up to<br>I’m working on cool stuff like GenAI, Java, Machine Learning, Deep Learning, and MERN stack projects.<br><br>🤝 Let’s team up!<br>I’d love to collaborate on MERN stack, GenAI, and Java projects.<br><br>🛠️ Need a hand?<br>I’m looking for help with Blockchain projects—still figuring that magic out!<br><br>📚 Always learning<br>Right now, I’m learning Java, Machine Learning, GenAI, Deep Learning, Blockchain, MERN, and Next.js.<br><br>⚡ Fun fact<br>I’m obsessed with building things that make life easier and a whole lot cooler!
 
@@ -24,4 +23,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MishraSomesh001&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+# 💫 About Me:
+vyuuvyiu
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MishraSomesh001&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MishraSomesh001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->-->
