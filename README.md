@@ -1,7 +1,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MishraSomesh001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MishraSomesh001&theme=radical&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=MishraSomesh001&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraSomesh001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
